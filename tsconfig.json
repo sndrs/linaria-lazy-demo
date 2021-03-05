@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"jsx": "react-jsx",
+		"rootDir": "src",
+		"module": "esnext",
+		"target": "esnext",
+		"moduleResolution": "Node",
+		"allowSyntheticDefaultImports": true
+	}
+}
